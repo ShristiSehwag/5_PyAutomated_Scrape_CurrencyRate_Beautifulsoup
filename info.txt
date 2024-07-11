@@ -1,0 +1,7 @@
+Main function:
+1. get driver
+2. fetch the username and password text box
+    We use the id for that task
+3. use return key to hit auto submit
+4. click on home page with use of xpat
+
