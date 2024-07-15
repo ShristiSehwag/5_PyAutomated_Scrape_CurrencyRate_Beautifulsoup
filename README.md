@@ -14,5 +14,6 @@ It extracts the exchange rate from the parsed HTML by locating the relevant HTML
 
 Finally, it returns the extracted exchange rate, which can then be used in further processing or displayed.
 
-## Refrence :
+## Reference :
+![Alt text](https://github.com/ShristiSehwag/5_PyAutomated_Scrape_CurrencyRate_Beautifulsoup/blob/main/Scrape_CurrencyRate_Beautifulsoup.png)
 
