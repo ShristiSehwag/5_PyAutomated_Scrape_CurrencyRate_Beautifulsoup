@@ -1,4 +1,12 @@
-https://query1.finance.yahoo.com/v7/finance/download/AAPL?period1=345479400&period2=1720774815&interval=1d&events=history&includeAdjustedClose=true
+Scrape real time currency rate with beautiful soup
+
+Selenium : Browser Automation (login , click) + scraping
+Beautiful soup : web scrapping 
+               : will parse through the html source code of the website
+               : returns the desired scraped value
+               
+
+
 
  
 
